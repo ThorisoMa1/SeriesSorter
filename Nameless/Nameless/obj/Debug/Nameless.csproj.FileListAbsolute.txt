@@ -1,0 +1,44 @@
+C:\Users\TeezyT\Documents\Visual Studio 2012\Projects\Side_projects\Nameless\Nameless\bin\Debug\Nameless.exe.config
+C:\Users\TeezyT\Documents\Visual Studio 2012\Projects\Side_projects\Nameless\Nameless\obj\Debug\Interop.CUSTREGLib.dll
+C:\Users\TeezyT\Documents\Visual Studio 2012\Projects\Side_projects\Nameless\Nameless\obj\Debug\Interop.VBScript_RegExp_10.dll
+C:\Users\TeezyT\Documents\Visual Studio 2012\Projects\Side_projects\Nameless\Nameless\obj\Debug\Interop.VBScript_RegExp_55.dll
+C:\Users\TeezyT\Documents\Visual Studio 2012\Projects\Side_projects\Nameless\Nameless\obj\Debug\Nameless.csproj.ResolveComReference.cache
+C:\Users\TeezyT\Documents\Visual Studio 2012\Projects\Side_projects\Nameless\Nameless\obj\Debug\Nameless.exe
+C:\Users\TeezyT\Documents\Visual Studio 2012\Projects\Side_projects\Nameless\Nameless\obj\Debug\Nameless.pdb
+C:\Users\TeezyT\Documents\Visual Studio 2012\Projects\Side_projects\Nameless\Nameless\obj\Debug\Nameless.csprojResolveAssemblyReference.cache
+C:\Users\TeezyT\Documents\Visual Studio 2012\Projects\Side_projects\Nameless\Nameless\obj\Debug\Nameless.Form1.resources
+C:\Users\TeezyT\Documents\Visual Studio 2012\Projects\Side_projects\Nameless\Nameless\obj\Debug\Nameless.Properties.Resources.resources
+C:\Users\TeezyT\Documents\Visual Studio 2012\Projects\Side_projects\Nameless\Nameless\obj\Debug\Nameless.csproj.GenerateResource.Cache
+C:\Users\TeezyT\Documents\Visual Studio 2012\Projects\Side_projects\Nameless\Nameless\bin\Debug\Nameless.exe
+C:\Users\TeezyT\Documents\Visual Studio 2012\Projects\Side_projects\Nameless\Nameless\bin\Debug\Nameless.pdb
+C:\Users\TeezyT\Documents\Visual Studio 2012\Projects\Side_projects\Nameless\Nameless\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\TeezyT\Documents\Visual Studio 2012\Projects\Side_projects\Nameless\Nameless\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\TeezyT\Documents\Visual Studio 2012\Projects\Side_projects\Nameless\Nameless\obj\Debug\Nameless.seasonSpec.resources
+C:\Users\TeezyT\OneDrive\Documents\Projects\Side_projects\Nameless\Nameless\bin\Debug\Nameless.exe.config
+C:\Users\TeezyT\OneDrive\Documents\Projects\Side_projects\Nameless\Nameless\obj\Debug\Interop.CUSTREGLib.dll
+C:\Users\TeezyT\OneDrive\Documents\Projects\Side_projects\Nameless\Nameless\obj\Debug\Interop.VBScript_RegExp_10.dll
+C:\Users\TeezyT\OneDrive\Documents\Projects\Side_projects\Nameless\Nameless\obj\Debug\Interop.VBScript_RegExp_55.dll
+C:\Users\TeezyT\OneDrive\Documents\Projects\Side_projects\Nameless\Nameless\obj\Debug\Nameless.csproj.ResolveComReference.cache
+C:\Users\TeezyT\OneDrive\Documents\Projects\Side_projects\Nameless\Nameless\obj\Debug\Nameless.exe
+C:\Users\TeezyT\OneDrive\Documents\Projects\Side_projects\Nameless\Nameless\obj\Debug\Nameless.pdb
+C:\Users\TeezyT\OneDrive\Documents\Projects\Side_projects\Nameless\Nameless\bin\Debug\Nameless.exe
+C:\Users\TeezyT\OneDrive\Documents\Projects\Side_projects\Nameless\Nameless\bin\Debug\Nameless.pdb
+C:\Users\TeezyT\OneDrive\Documents\Projects\Side_projects\Nameless\Nameless\obj\Debug\Nameless.csprojResolveAssemblyReference.cache
+C:\Users\TeezyT\OneDrive\Documents\Projects\Side_projects\Nameless\Nameless\obj\Debug\Nameless.Form1.resources
+C:\Users\TeezyT\OneDrive\Documents\Projects\Side_projects\Nameless\Nameless\obj\Debug\Nameless.Properties.Resources.resources
+C:\Users\TeezyT\OneDrive\Documents\Projects\Side_projects\Nameless\Nameless\obj\Debug\Nameless.seasonSpec.resources
+C:\Users\TeezyT\OneDrive\Documents\Projects\Side_projects\Nameless\Nameless\obj\Debug\Nameless.csproj.GenerateResource.Cache
+C:\Users\TeezyT\Google Drive\BC\Projects\Side_projects\Nameless\Nameless\bin\Debug\Nameless.exe.config
+C:\Users\TeezyT\Google Drive\BC\Projects\Side_projects\Nameless\Nameless\obj\Debug\Interop.CUSTREGLib.dll
+C:\Users\TeezyT\Google Drive\BC\Projects\Side_projects\Nameless\Nameless\obj\Debug\Interop.VBScript_RegExp_10.dll
+C:\Users\TeezyT\Google Drive\BC\Projects\Side_projects\Nameless\Nameless\obj\Debug\Interop.VBScript_RegExp_55.dll
+C:\Users\TeezyT\Google Drive\BC\Projects\Side_projects\Nameless\Nameless\obj\Debug\Nameless.csproj.ResolveComReference.cache
+C:\Users\TeezyT\Google Drive\BC\Projects\Side_projects\Nameless\Nameless\obj\Debug\Nameless.exe
+C:\Users\TeezyT\Google Drive\BC\Projects\Side_projects\Nameless\Nameless\obj\Debug\Nameless.csprojResolveAssemblyReference.cache
+C:\Users\TeezyT\Google Drive\BC\Projects\Side_projects\Nameless\Nameless\obj\Debug\Nameless.Form1.resources
+C:\Users\TeezyT\Google Drive\BC\Projects\Side_projects\Nameless\Nameless\obj\Debug\Nameless.Properties.Resources.resources
+C:\Users\TeezyT\Google Drive\BC\Projects\Side_projects\Nameless\Nameless\obj\Debug\Nameless.seasonSpec.resources
+C:\Users\TeezyT\Google Drive\BC\Projects\Side_projects\Nameless\Nameless\obj\Debug\Nameless.csproj.GenerateResource.Cache
+C:\Users\TeezyT\Google Drive\BC\Projects\Side_projects\Nameless\Nameless\bin\Debug\Nameless.exe
+C:\Users\TeezyT\Google Drive\BC\Projects\Side_projects\Nameless\Nameless\bin\Debug\Nameless.pdb
+C:\Users\TeezyT\Google Drive\BC\Projects\Side_projects\Nameless\Nameless\obj\Debug\Nameless.pdb
